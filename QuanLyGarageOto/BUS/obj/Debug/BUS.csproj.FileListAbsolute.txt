@@ -1,0 +1,9 @@
+D:\QuanLyGarageOto\QuanLyGarageOto\BUS\bin\Debug\BUS.dll
+D:\QuanLyGarageOto\QuanLyGarageOto\BUS\bin\Debug\BUS.pdb
+D:\QuanLyGarageOto\QuanLyGarageOto\BUS\bin\Debug\DAO.dll
+D:\QuanLyGarageOto\QuanLyGarageOto\BUS\bin\Debug\DAO.pdb
+D:\QuanLyGarageOto\QuanLyGarageOto\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\QuanLyGarageOto\QuanLyGarageOto\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\QuanLyGarageOto\QuanLyGarageOto\BUS\obj\Debug\BUS.dll
+D:\QuanLyGarageOto\QuanLyGarageOto\BUS\obj\Debug\BUS.pdb
+D:\QuanLyGarageOto\QuanLyGarageOto\BUS\obj\Debug\BUS.csproj.CopyComplete

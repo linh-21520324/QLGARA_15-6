@@ -1,0 +1,6 @@
+D:\QuanLyGarageOto\QuanLyGarageOto\DAO\bin\Debug\DAO.dll
+D:\QuanLyGarageOto\QuanLyGarageOto\DAO\bin\Debug\DAO.pdb
+D:\QuanLyGarageOto\QuanLyGarageOto\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\QuanLyGarageOto\QuanLyGarageOto\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\QuanLyGarageOto\QuanLyGarageOto\DAO\obj\Debug\DAO.dll
+D:\QuanLyGarageOto\QuanLyGarageOto\DAO\obj\Debug\DAO.pdb
