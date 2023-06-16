@@ -5,7 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//test
 namespace BUS
 {
     public class BaoCaoDoanhThuBUS
